@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/tab1"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_outline_home_24"
+        android:enabled="true"
+        android:checked="true"
+        android:title="홈" />
+
+    <item android:id="@+id/tab2"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:enabled="true"
+        android:title="찜" />
+
+    <item android:id="@+id/tab3"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:enabled="true"
+        android:title="검색" />
+
+    <item android:id="@+id/tab4"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_list_24"
+        android:enabled="true"
+        android:title="주문내역" />
+
+    <item android:id="@+id/tab5"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:enabled="true"
+        android:title="마이페이지" />
+</menu>

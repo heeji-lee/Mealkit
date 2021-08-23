@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717652469729",
+    "project_id": "mealkit-2453c",
+    "storage_bucket": "mealkit-2453c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717652469729:android:95a04c79fa8233d25dd4a0",
+        "android_client_info": {
+          "package_name": "com.example.mealkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717652469729-f9e9b9jjlburhjate38nhiuvfdfo2unc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7VaxCyjAymLlNBdqrpNW4istHx9gEvuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717652469729-f9e9b9jjlburhjate38nhiuvfdfo2unc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

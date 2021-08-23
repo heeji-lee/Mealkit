@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple Cook</string>
+
+    <string name="menu_home">홈</string>
+    <string name="menu_account">계정</string>
+    <string name="menu_category">카테고리</string>
+    <string name="menu_favorite">찜</string>
+    <string name="menu_cart">장바구니</string>
+    <string name="menu_coupon">쿠폰</string>
+    <string name="menu_notifications">알림</string>
+    <string name="menu_settings">설정</string>
+    <string name="menu_help">고객센터</string>
+
+    <string name="kakao_app_key">2d1ec5366b91cb4c51c60f657383e9ae</string>
+</resources>

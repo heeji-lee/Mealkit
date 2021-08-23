@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/menu1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/ic_baseline_category_24"
+            android:title="@string/menu_category" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/ic_baseline_favorite_24"
+            android:title="@string/menu_favorite" />
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_outline_shopping_bag_24"
+            android:title="@string/menu_cart" />
+        <item
+            android:id="@+id/nav_coupon"
+            android:icon="@drawable/ic_outline_coupon_24"
+            android:title="@string/menu_coupon" />
+    </group>
+
+    <group
+        android:id="@+id/menu2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/ic_baseline_notifications_24"
+            android:title="@string/menu_notifications" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_outline_settings_24"
+            android:title="@string/menu_settings" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_baseline_help_outline_24"
+            android:title="@string/menu_help" />
+    </group>
+</menu>
