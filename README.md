@@ -13,5 +13,3 @@
 + 메인 화면 (2) 자세히 보기
 
 ![image](https://user-images.githubusercontent.com/73567158/228308347-4f0c630c-cf9f-4717-b020-0af82be56cc6.png)
-
-+ 카카오톡 로그인
