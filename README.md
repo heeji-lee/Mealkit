@@ -25,6 +25,8 @@
 ># 프로젝트 기술 스택 💻
 >## ✔️Language
 >![image](https://github.com/heeji-lee/Mealkit/assets/73567158/dcbc7470-728e-4615-b6e7-d16b6c38f98a)
+>## ✔️Server
+>![image](https://github.com/heeji-lee/Mealkit/assets/73567158/5e61acca-e05f-41be-a6a7-be438c63e16f)
 >## ✔️Database
 >![image](https://github.com/heeji-lee/Mealkit/assets/73567158/fff8313e-db8c-4fa3-8a15-6c303dd3a7ef)
 >## ✔️Tool
