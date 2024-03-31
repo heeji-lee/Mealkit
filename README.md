@@ -36,6 +36,12 @@
 >## ERD 구조
 >-
 
+>## PHP 코드
+>database.php  
+>![image](https://github.com/heeji-lee/Mealkit/assets/73567158/645cb853-1ac8-41af-bf98-95caf4934a87)  
+>mealkit.php  
+>![image](https://github.com/heeji-lee/Mealkit/assets/73567158/16cc46c6-40a7-4cdf-adab-d0764c399016)
+
 ># 주요 기능
 >## 요약
 ><table>
